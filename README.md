@@ -2,10 +2,9 @@
 
 This project is a simulation of a distributed system where multiple processes (servers) execute tasks. The goal is to showcase task distribution, queue management, and inter-process communication (IPC) without using external message brokers like Kafka or RabbitMQ.
 
-<video width="640" height="360" controls>
-  <source src="media/2024-12-10 22-05-12.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Скриншот видео](media/screenshot.png)](media/2024-12-10%2022-05-12.mp4)
+
+
 ---
 
 ## Features
